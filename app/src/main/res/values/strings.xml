@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2Android</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="add_text">Добавить в список</string>
+    <string name="input_name_text">Введите название</string>
+</resources>
